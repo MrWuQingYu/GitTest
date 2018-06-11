@@ -7,6 +7,7 @@ public class MemoeyTest {
 		String str2 = new StringBuilder("ja").append("va").toString();
 		System.out.println(str2.intern()==str2);
 		System.out.println("ÄãºÃ°¡Frist");
+		System.out.println("ä½ å¥½å•?");
 	}
 
 }
